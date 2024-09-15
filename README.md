@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on python projects<br>i am learning pyhton<br>i am interested in gaming<br>my dream is to make video games<br>
+I am currently working on python projects<br>I am learning pyhton<br>I am interested in gaming<br>Dream is to make video games<br>
 
 
 ## 🌐 Socials:
