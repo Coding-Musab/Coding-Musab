@@ -1,17 +1,21 @@
-💫 About Me:
-I am currently working on python projects
-i am learning pyhton
-i am interested in gaming
-my dream is to make video games
+# 💫 About Me:
+I am currently working on python projects<br>i am learning pyhton<br>i am interested in gaming<br>my dream is to make video games<br>
 
-🌐 Socials:
-Instagram
 
-💻 Tech Stack:
-Python
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musab.555) 
 
-📊 GitHub Stats:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Coding-Musab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Coding-Musab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Musab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Coding-Musab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
